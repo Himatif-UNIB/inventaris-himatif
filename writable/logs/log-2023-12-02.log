@@ -1,0 +1,12 @@
+CRITICAL - 2023-12-02 08:39:13 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp7\htdocs\si_inventaris_qrcode_codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp7\htdocs\si_inventaris_qrcode_codeigniter4\spark(45): require('C:\\xampp7\\htdoc...')
+#2 {main}
+CRITICAL - 2023-12-02 08:41:07 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp7\htdocs\si_inventaris_qrcode_codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp7\htdocs\si_inventaris_qrcode_codeigniter4\spark(45): require('C:\\xampp7\\htdoc...')
+#2 {main}
+CRITICAL - 2023-12-02 08:41:24 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp7\htdocs\si_inventaris_qrcode_codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp7\htdocs\si_inventaris_qrcode_codeigniter4\spark(45): require('C:\\xampp7\\htdoc...')
+#2 {main}
